@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "The Shawshank Redemption",
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "releaseYear": 1994,
+      "imageUrl": "https://www.example.com/shawshank.jpg",
+      "movieCode": "EFGH5678",
+      "customerName": "Jane Smith",
+      "customerEmail": "janesmith@example.com",
+      "bookingDate": "2024-03-08"
+    },
+    {
+      "id": 2,
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy, Adventure",
+      "director": "Peter Jackson",
+      "releaseYear": 2001,
+      "imageUrl": "https://www.example.com/lotr.jpg",
+      "movieCode": "EFGH5679",
+      "customerName": "John Doe",
+      "customerEmail": "johndoe@example.com",
+      "bookingDate": "2024-03-07"
+    },
+    {
+      "id": 3,
+      "name": "Inception",
+      "genre": "Sci-Fi, Action",
+      "director": "Christopher Nolan",
+      "releaseYear": 2010,
+      "imageUrl": "https://www.example.com/inception.jpg",
+      "movieCode": "EFGH5680",
+      "customerName": "Alice Johnson",
+      "customerEmail": "alicejohnson@example.com",
+      "bookingDate": "2024-03-06"
+    },
+    {
+      "id": 4,
+      "name": "The Dark Knight",
+      "genre": "Action, Crime",
+      "director": "Christopher Nolan",
+      "releaseYear": 2008,
+      "imageUrl": "https://www.example.com/darkknight.jpg",
+      "movieCode": "EFGH5681",
+      "customerName": "Bob Williams",
+      "customerEmail": "bobwilliams@example.com",
+      "bookingDate": "2024-03-05"
+    },
+    {
+      "id": 5,
+      "name": "Pulp Fiction",
+      "genre": "Crime, Drama",
+      "director": "Quentin Tarantino",
+      "releaseYear": 1994,
+      "imageUrl": "https://www.example.com/pulpfiction.jpg",
+      "movieCode": "EFGH5682",
+      "customerName": "Chris Brown",
+      "customerEmail": "chrisbrown@example.com",
+      "bookingDate": "2024-03-04"
+    },
+    {
+      "id": 6,
+      "name": "Forrest Gump",
+      "genre": "Drama, Romance",
+      "director": "Robert Zemeckis",
+      "releaseYear": 1994,
+      "imageUrl": "https://www.example.com/forrestgump.jpg",
+      "movieCode": "EFGH5683",
+      "customerName": "Emily Davis",
+      "customerEmail": "emilydavis@example.com",
+      "bookingDate": "2024-03-03"
+    },
+    {
+      "id": 7,
+      "name": "The Matrix",
+      "genre": "Action, Sci-Fi",
+      "director": "Lana and Lilly Wachowski",
+      "releaseYear": 1999,
+      "imageUrl": "https://www.example.com/matrix.jpg",
+      "movieCode": "EFGH5684",
+      "customerName": "Daniel Taylor",
+      "customerEmail": "danieltaylor@example.com",
+      "bookingDate": "2024-03-02"
+    },
+    {
+      "id": 8,
+      "name": "The Godfather",
+      "genre": "Crime, Drama",
+      "director": "Francis Ford Coppola",
+      "releaseYear": 1972,
+      "imageUrl": "https://www.example.com/godfather.jpg",
+      "movieCode": "EFGH5685",
+      "customerName": "Olivia White",
+      "customerEmail": "oliviawhite@example.com",
+      "bookingDate": "2024-03-01"
+    },
+    {
+      "id": 9,
+      "name": "Schindler's List",
+      "genre": "Biography, Drama",
+      "director": "Steven Spielberg",
+      "releaseYear": 1993,
+      "imageUrl": "https://www.example.com/schindlerslist.jpg",
+      "movieCode": "EFGH5686",
+      "customerName": "Ethan Miller",
+      "customerEmail": "ethanmiller@example.com",
+      "bookingDate": "2024-02-29"
+    }
+]
